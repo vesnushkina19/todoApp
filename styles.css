@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    gap: 10px;
+    margin: 5px;
+
+}
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.deleteBtn{
+    border: none;
+    background-color: #fff;
+    
+}
